@@ -1,0 +1,19 @@
+Requirements:
+PHP 5.6
+
+--------------------------   CMS install -------------------------------------------------------------
+
+
+1. Upload the files from the folder UPLOAD into you your public_html (root dir) of your hosting.
+2. Make a new mysql db and import the db file located in the MYSQL_DB dir.
+3. Open the vars.php located into you public_html (root dir) and add your hosting info mysql, domain ...
+
+
+--------------------------  ADMIN CP LOGIN -----------------------------------------------------------------
+
+URL:      yourdomain/admincp
+
+Username: admin
+Password: 123456
+
+
